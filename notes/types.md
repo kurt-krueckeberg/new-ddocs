@@ -16,7 +16,7 @@ Using D Built-in Types
 |ulong|unsigned 64 bits|0LU|
 |float|32-bit floating point|float.nan|
 |double|64-bit floating point|double.nan|
-|real|either the largest floating point type that the hardware supports or double; whichever is larger|real.nan|
+|real|either the largest floating point type that the hardware supports or double, whichever is larger|real.nan|
 |ifloat|imaginary value type of float|float.nan * 1.0i|
 |idouble|imaginary value type of double|double.nan * 1.0i|
 |ireal|imaginary value type of real|real.nan * 1.0i|
